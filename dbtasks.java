@@ -20,9 +20,9 @@ public class dbtasks {
         // We entered our informations related to our database such as name of our datase, username and password.
 		
 
-		String host = "jdbc:postgresql://10.98.98.61:5432/group12";
-		String user = "group12";
-		String password = "vxbYLL&S^aBetE5z";
+		String host = "jdbc:postgresql://localhost:5432/db";
+		String user = "postgres";
+		String password = "postgres";
 
 		Scanner keyboard = new Scanner(System.in);
 
